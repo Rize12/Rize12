@@ -1,5 +1,5 @@
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
-local Window = Rayfield:CreateWindow({https://raw.githubusercontent.com/scriptpastebin/raw/main/Confetti
+local Window = Rayfield:CreateWindow({
 	Name = "JUST CONFETTI",
 	LoadingTitle = "JUST CONFETTI",
 	LoadingSubtitle = "By Rize",
@@ -41,7 +41,7 @@ local Button = Tab:CreateButton({
 	Name = "Disable",
 	Callback = function()
 	_G.AutoConfetti = false
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet(""))(https://raw.githubusercontent.com/scriptpastebin/raw/main/Confetti)
 		-- The function that takes place when the button is pressed
 	end,
 })
